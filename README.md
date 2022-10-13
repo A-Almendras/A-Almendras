@@ -2,11 +2,12 @@
 Hi! My name is Anaflavia and welcome to my github profile 🔆
 
 🎓 Recent General Assembly Grad - Software Engineer
+
 🎓 University of 〽️ichigan Grad - Mechanical Engineer
 
 💡 With my background and theoretical experience in data science and machine learning, I have the innate capability to be extra attentive to details and find connections among processes. I strive to make an impact on future generations by making creativity and innovation more accessible through software all while working and learning from diverse individuals I am able to cross paths with.
 
-✨ Outside of my work my life revolves around fitness, dancing, art, plants, meeting friends and my wonderful dogs. 
+✨ Outside of my work my life revolves around my wonderful dogs, fitness, dancing, art, plants, and meeting friends.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aalmendras//)
